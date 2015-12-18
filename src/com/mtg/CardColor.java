@@ -1,6 +1,6 @@
 package com.mtg;
 
-public class MagicGame
+public class CardColor
 {
 	
 }
