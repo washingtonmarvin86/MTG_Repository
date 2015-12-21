@@ -13,7 +13,7 @@ public class gameSetup
 	@Test
 	public void shouldHaveLifeTotalOf20()
 	{
-		assertTrue(lifeTotal  == 20);
+		assertTrue(lifeTotal == 20);
 	}
 	
 	@Ignore
