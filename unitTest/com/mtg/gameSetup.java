@@ -7,9 +7,10 @@ import org.junit.Test;
 
 public class gameSetup
 {
-
+    
 	private int lifeTotal = 20;
 
+    @Ignore
 	@Test
 	public void shouldHaveLifeTotalOf20()
 	{
@@ -22,5 +23,6 @@ public class gameSetup
 	{
 		fail();
 	}
+	
 
 }
